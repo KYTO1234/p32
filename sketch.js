@@ -8,7 +8,7 @@ var backgroundImg;
 var hour;
 
 var bg = "sunrise.png";
-var hour = datetime.slice(11,13)
+
 
 function preload() {
     getBackgroundImg();
