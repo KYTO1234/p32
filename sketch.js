@@ -5,7 +5,7 @@ const Constraint = Matter.Constraint;
 
 var engine, world;
 var backgroundImg;
-var hour;
+var hour = datetime.slice(11,13)
 
 var bg = "sunrise.png";
 
